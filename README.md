@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="Screenshot 2026-04-29 024201" src="https://github.com/user-attachments/assets/05c08cd2-84a9-42ca-a9e4-231567733410" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-29 025142" src="https://github.com/user-attachments/assets/91e4b00a-15c7-40bd-a501-b8f415291da3" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-29 024140" src="https://github.com/user-attachments/assets/81fa59a2-27e0-4dbf-a013-40983a7d8791" />
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/04aba982-29eb-4b8d-b6c2-9c63de80025e" />
+
+
 # CleanPress — Mini Laundry Order Management System
 
 > Built for the Software Engineering Assignment (AI-First)
